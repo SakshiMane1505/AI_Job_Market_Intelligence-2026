@@ -98,7 +98,7 @@ The dashboard provides insights into job demand, required skills, locations, exp
 
 
 
-!\[AI Job Market Intelligence Dashboard](AI\_Job\_Market\_Intelligence.png)
+!\[AI Job Market Intelligence Dashboard](./AI\_Job\_Market\_Intelligence.png)
 
 
 
