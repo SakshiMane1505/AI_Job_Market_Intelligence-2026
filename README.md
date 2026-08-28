@@ -42,7 +42,7 @@ The dashboard provides insights into job demand, required skills, locations, exp
 
 \- Microsoft Excel
 
-\- SQL
+\- MySQL
 
 \- Data Visualization
 
