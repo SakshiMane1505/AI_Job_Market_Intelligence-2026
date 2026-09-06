@@ -108,7 +108,7 @@ The dashboard provides insights into job demand, required skills, locations, exp
 
 \- AI\_Job\_Market\_Intelligence.pbix – Power BI dashboard
 
-\- AI\_Job\_Market\_Intelligence.png – Dashboard screenshot
+\- AI\_Job\_Market\_Intelligence Screenshort.png – Dashboard screenshot
 
 \- README.md – Project documentation
 
